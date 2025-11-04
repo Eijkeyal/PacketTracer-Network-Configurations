@@ -82,12 +82,6 @@ This repository contains Cisco Packet Tracer network simulations demonstrating v
 - Basic networking knowledge
 - Understanding of TCP/IP protocols
 
-## 📝 Notes
-
-- All configurations are tested and verified
-- IP addressing schemes follow RFC 1918 private ranges
-- Documentation includes configuration snippets and explanations
-
 ## 🤝 Contributing
 
 Feel free to use these configurations for learning purposes. If you improve or expand upon these setups, contributions are welcome!
