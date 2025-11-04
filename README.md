@@ -26,3 +26,29 @@ This repository contains Cisco Packet Tracer network simulations demonstrating v
 [DHCP Server]
 [DNS Server]
 [Web Server]
+
+### Topology 2: Multi-Router Static Routing
+[Network A] -- [Router 1] -- [Router 2] -- [Network B]
+| |
+[Server Farm] [Client LAN]
+
+## ⚙️ Configuration Details
+
+### Static Routing
+- Configured manual routes between different networks
+- Implemented route redistribution where necessary
+- Verified connectivity with ping and traceroute tests
+
+### DHCP Services
+- Set up DHCP pools for multiple subnets
+- Configured IP address ranges and exclusions
+- Implemented lease times and DNS server assignments
+### Web Server
+- Configured HTTP services on dedicated server
+- Set up default web pages for testing
+- Verified accessibility from client PCs
+
+### DNS Services
+- Created forward and reverse lookup zones
+- Configured A records, CNAME records, and MX records
+- Tested name resolution across the network
