@@ -52,3 +52,18 @@ This repository contains Cisco Packet Tracer network simulations demonstrating v
 - Created forward and reverse lookup zones
 - Configured A records, CNAME records, and MX records
 - Tested name resolution across the network
+## 🚀 How to Use These Files
+
+1. **Open in Cisco Packet Tracer**
+   - Download the `.pkt` files
+   - Open with Cisco Packet Tracer 7.x or higher
+
+2. **Test Configurations**
+   - Use simulation mode to see packet flow
+   - Test connectivity between devices
+   - Verify services are working properly
+
+3. **Modify and Learn**
+   - Experiment with different IP schemes
+   - Add new services or devices
+   - Practice troubleshooting techniques
