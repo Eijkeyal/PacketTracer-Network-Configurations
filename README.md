@@ -87,5 +87,10 @@ This repository contains Cisco Packet Tracer network simulations demonstrating v
 Feel free to use these configurations for learning purposes. If you improve or expand upon these setups, contributions are welcome!
 
 ---
-
 **Created with Cisco Packet Tracer** | **Networking Labs and Simulations**
+## 👤 Author  
+**Eijkeyal Pakhrin**  
+- GitHub: [Eijkeyal](https://github.com/Eijkeyal)  
+- LinkedIn: [Eijkeyal Pakhrin](https://www.linkedin.com/in/eijkeyalpakhrin)
+- Credly: [Eijkeyal Pakhrin](https://credly.com/users/eijkeyal-pakhrin)
+
