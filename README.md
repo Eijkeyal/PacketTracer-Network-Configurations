@@ -21,3 +21,8 @@ This repository contains Cisco Packet Tracer network simulations demonstrating v
 ## 🌐 Network Topologies
 
 ### Topology 1: Basic Enterprise Networks
+[Internet] -- [Router] -- [Switch] -- [PCs]
+|
+[DHCP Server]
+[DNS Server]
+[Web Server]
